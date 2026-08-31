@@ -4,7 +4,7 @@ import 'dart:io';
 
 import 'package:flutter/services.dart';
 
-import '../../open_filex_plus.dart';
+import '../../open_filex.dart';
 
 /// OpenFilex class
 class OpenFilex {
